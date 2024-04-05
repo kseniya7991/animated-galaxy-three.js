@@ -5,7 +5,7 @@ This is one of [threejs-joyrney's](https://threejs-journey.com/) lessons. It use
 ## Screenshots
 
 ![example](https://github.com/kseniya7991/animated-galaxy-three.js/blob/master/screenshot1.png)
-![example2](https://github.com/kseniya7991/animated-galaxy-three.js/blob/master/screenshot1.png)
+![example2](https://github.com/kseniya7991/animated-galaxy-three.js/blob/master/screenshot2.png)
 
 ## Live
 
